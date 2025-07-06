@@ -1,23 +1,38 @@
-App_Variado_Python1
-App em Python com calculadora , jogos de adivinhação e rolador de dados
-🧠 App Variado em Python
+# 🚀 App Variado em Python
 
-Projeto simples feito com Python para treinar lógica de programação e explorar bibliotecas externas como colorama. O app roda direto no terminal e possui várias funcionalidades divertidas!
+Bem-vindo ao **App Variado**, um projeto feito em Python que reúne várias funcionalidades simples e úteis em um só lugar — tudo no terminal! 📟
 
 ---
 
-📦 Funcionalidades
+## 🧠 Funcionalidades
 
-- 📱 Calculadora simples — realiza as operações básicas (+, -, *, /)
-- 🎲 Rolador de dados — com dados de 6, 10, 20 ou 100 lados
-- ❓ Jogo de adivinhação — com 4 niveis de dificuldade
+✅ Calculadora  
+✅ Jogo de adivinhação  
+✅ Rolador de dados  
+✅ (Mais recursos podem ser adicionados)
 
 ---
 
-🛠️ Como executar
+## 🎯 Objetivo do Projeto
 
-1. Certifique-se de ter o Python3  instalado.
-2. Instale a biblioteca necessária colorama
+Este app foi criado com o objetivo de treinar e demonstrar conhecimentos de **Python**, **lógica de programação**, **estruturas de decisão e repetição**, além de reforçar boas práticas de código limpo e modularizado.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- 🐍 Python 3
+- 💻 Terminal / Prompt de Comando / VSCode
+
+---
+
+## ▶️ Como Executar
+
+1. Faça o clone do repositório:
+
+```bash
+git clone https://github.com/Pitohhh77/App_Variado_Python1.git
+
 
 
 ---
