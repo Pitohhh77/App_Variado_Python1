@@ -48,7 +48,7 @@ git clone https://github.com/Pitohhh77/App_Variado_Python1.git
 
 👤 Autor
 
-Pedro Henrique Lima de Oliveira
+Pitohhh
 Estudante de programação e tecnologia 👨‍💻  
 Brasil 🇧🇷
 
